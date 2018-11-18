@@ -1,0 +1,13 @@
+alias g='gvim'
+
+# ls variants
+alias l='ls -ltr'
+alias ll='ls -l'
+alias la='ls -al'
+
+alias cdw='cd ~/work'
+
+# git shortcuts
+alias gs='git status'
+alias gb='git branch'
+alias gd='git difftool -y'
