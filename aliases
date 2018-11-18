@@ -1,3 +1,5 @@
+# Link ~/.aliases to this file
+
 alias g='gvim'
 
 # ls variants
