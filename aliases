@@ -1,4 +1,5 @@
 # Link ~/.aliases to this file
+# ln -s aliases ~/.aliases
 
 alias g='gvim'
 
