@@ -13,4 +13,5 @@ alias cdw='cd ~/work'
 # git shortcuts
 alias gs='git status'
 alias gb='git branch'
+alias gl='git log'
 alias gd='git difftool -y'
